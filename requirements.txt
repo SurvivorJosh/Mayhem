@@ -1,0 +1,11 @@
+# Mayhem
+a discord nuker similar to Avery
+
+requests
+random
+discord
+colorama
+threading
+asyncio
+os
+json
